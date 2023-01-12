@@ -17,6 +17,8 @@ namespace NqmaZnachenie
             {
                 Console.WriteLine(i);
             }
+
+            Console.ReadLine();
         }
     }
 }
