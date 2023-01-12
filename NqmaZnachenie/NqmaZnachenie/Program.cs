@@ -10,6 +10,7 @@ namespace NqmaZnachenie
     {
         static void Main(string[] args)
         {
+            
             Console.Write("Въведете число: ");
             var n = int.Parse(Console.ReadLine());
 
